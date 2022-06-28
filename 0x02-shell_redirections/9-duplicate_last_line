@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 FILE | cut >> FILE
+tail -1 iacta | cut >> iacta
